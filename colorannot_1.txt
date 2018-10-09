@@ -1,0 +1,13 @@
+Euryarchaeota	clade_marker_color	#3A450D
+Thaumarchaeota	clade_marker_color	#6E8618
+Aquificae	clade_marker_color	#8E0C01
+Bacteroidetes	clade_marker_color	#604846
+Deferribacteres	clade_marker_color	#092834
+Firmicutes	clade_marker_color	#D4B502
+Nitrospinae	clade_marker_color	#8D0789
+Nitrospirae	clade_marker_color	#340933
+Planctomycetes	clade_marker_color	#88ccf7
+Alphaproteobacteria	clade_marker_color	#FD7208
+Betaproteobacteria	clade_marker_color	#549D53
+Epsilonproteobacteria	clade_marker_color	#4D4D4D
+Gammaproteobacteria	clade_marker_color	#ffc700
